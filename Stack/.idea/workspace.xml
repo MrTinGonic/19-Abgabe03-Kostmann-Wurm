@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99a7242f-ae1a-448a-975a-ae53002e9ebe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/at/fhj/iit/StringStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/at/fhj/iit/StringStackTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/at/fhj/iit/StringStackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            <state relative-caret-position="390">
+              <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555422865739" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555423896444" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -182,20 +181,11 @@
       <option name="presentableId" value="Default" />
       <updated>1555412055064</updated>
       <workItem from="1555412068997" duration="3472000" />
-      <workItem from="1555421751333" duration="847000" />
+      <workItem from="1555421751333" duration="1596000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringStackTest - 2019.04.16 at 15h 15m 38s.xml">
-      <configuration name="StringStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringStackTest - 2019.04.16 at 15h 18m 37s.xml">
-      <configuration name="StringStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringStackTest - 2019.04.16 at 15h 19m 19s.xml">
-      <configuration name="StringStackTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringStackTest - 2019.04.16 at 15h 20m 52s.xml">
       <configuration name="StringStackTest" configurationId="JUnit" />
     </history-entry>
@@ -217,16 +207,25 @@
     <history-entry file="StringStackTest - 2019.04.16 at 15h 51m 53s.xml">
       <configuration name="StringStackTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StringStackTest - 2019.04.16 at 16h 05m 52s.xml">
+      <configuration name="StringStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringStackTest - 2019.04.16 at 16h 06m 11s.xml">
+      <configuration name="StringStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringStackTest - 2019.04.16 at 16h 06m 49s.xml">
+      <configuration name="StringStackTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4319000" />
+    <option name="totallyTimeSpent" value="5068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.20386267" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.50089765" side_tool="true" visible="true" weight="0.20386267" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -234,7 +233,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -276,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/at/fhj/iit/StringStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        <state relative-caret-position="390">
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
