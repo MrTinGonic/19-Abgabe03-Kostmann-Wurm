@@ -69,8 +69,22 @@ public class StringStackTest
         
     }
 
-    @Test
-    public void LeoTest() {
+    /**
+     * tests pushing too much elements on stack.
+     * Excepted exception is caught (capacity != pushed elements)
+     *
+     * @throws Exception
+     */
+
+    @Test(expected=Exception.class)
+    public void pushOverflow() throws Exception {
+        s.push("1");
+        s.push("2");
+        s.push("3");
+        s.push("4");
+        s.push("5");
+        s.push("6");
+        
     }
 
     @Test
