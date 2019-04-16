@@ -52,8 +52,31 @@ public class StringStackTest
     @Test
     public void testPushPop() throws Exception
     {
+        //Add some random elements to the stack
+        s.push("Oans");
+        s.push("Zwoa");
+        s.push("Dree");
+        s.push("Foa");
+
+        //Compare elements with expected elements and pop
+        Assert.assertEquals("Foa",s.pop());
+        Assert.assertEquals("Dree",s.pop());
+        Assert.assertEquals("Zwoa",s.pop());
+        Assert.assertEquals("Oans",s.pop());
+
+        //Check if the stack is empty
+        Assert.assertTrue(s.isEmpty());
+        
     }
-    
+
+    @Test
+    public void LeoTest() {
+    }
+
+    @Test
+    public void FloTest() {
+    }
+
     /**
      * Feel Free to insert other test cases for the String Stack Implementation !!!
      */
