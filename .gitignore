@@ -25,3 +25,5 @@ hs_err_pid*
 
 Stack/.idea/*
 *.xml
+.DS_Store
+.DS_Store?
