@@ -67,6 +67,7 @@ public class StringStackTest {
 
     /**
      * tests pushing too much elements on stack.
+     * <p>
      * Excepted exception is caught (capacity != pushed elements)
      *
      * @throws Exception
@@ -87,6 +88,7 @@ public class StringStackTest {
 
     /**
      * tests pop from an empty stack
+     * <p>
      * - Expects an exception
      * - pop() from an empty stack
      * - If the exception appears test is passed

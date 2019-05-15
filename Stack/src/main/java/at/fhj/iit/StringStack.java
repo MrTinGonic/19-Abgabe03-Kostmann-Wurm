@@ -5,8 +5,8 @@ package at.fhj.iit;
  * supports String Values and can be initialized with a maximum number
  * of items.
  * 
- * @author Michael Ulm
- * @version 1.0
+ * @author Florian Kostmann, Leopold Wurm
+ * @version 2.0
  * 
  * @see Stack
  */
