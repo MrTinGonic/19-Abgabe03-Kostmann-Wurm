@@ -25,3 +25,7 @@ hs_err_pid*
 
 Stack/.idea/*
 *.xml
+*.iml
+/.idea*
+*.idea*
+*idea*
